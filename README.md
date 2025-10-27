@@ -4,7 +4,7 @@ Thank you for visiting! Please take a moment to review our important documents:
 
 ## 📄 Documents
 
-- [Privacy Policy](https://katielaineai.github.io/discorddox/privacy.html)  
+- [Privacy Policy](https://katielaineai.github.io/discorddox/PrivPolicy.html)  
   We respect your privacy and only collect minimal data necessary for app functionality.
 
 - [Terms of Service](https://katielaineai.github.io/discorddox/ToS.html)  
