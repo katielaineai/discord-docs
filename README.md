@@ -12,6 +12,6 @@ Thank you for visiting! Please take a moment to review our important documents:
 
 ---
 
-If you have any questions or concerns, feel free to contact us at **elainebsns@gmai.com**.  
+If you have any questions or concerns, feel free to contact us at **elainebsns@gmail.com**.  
 
 &copy; 2025 FairyCodez. All rights reserved.
