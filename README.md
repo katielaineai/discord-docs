@@ -4,10 +4,10 @@ Thank you for visiting! Please take a moment to review our important documents:
 
 ## 📄 Documents
 
-- [Privacy Policy](https://katielaineai.github.io/discorddox/PrivPolicy.html)  
+- [Privacy Policy]([https://katielaineai.github.io/discord-docs/PrivPolicy.html])  
   We respect your privacy and only collect minimal data necessary for app functionality.
 
-- [Terms of Service](https://katielaineai.github.io/discorddox/ToS.html)  
+- [Terms of Service]([https://katielaineai.github.io/discord-docs/ToS.html])  
   By using our service, you agree to our terms and conditions.
 
 ---
